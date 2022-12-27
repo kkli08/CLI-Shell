@@ -1,4 +1,4 @@
-# MiniShell
+# CLIShell
 Build a mini Command line shell interface.
 
 `[systems programming]` `[process communication]` `[resource management]`
