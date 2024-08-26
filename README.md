@@ -44,7 +44,3 @@ the print format below in the example.
 `<cmd> <arg>`
 * Spawn a process to execute command `<cmd>` with 0 or more arguments `<arg>`. `<cmd>` and `<arg>` are each one or more sequences of nonblank characters.
 
-
-
-### Cited
-https://eclass.srv.ualberta.ca/pluginfile.php/8521877/mod_resource/content/3/Assign1-F22.pdf
